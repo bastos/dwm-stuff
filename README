@@ -1,0 +1,14 @@
+DWM RULEZ! Fact!
+
+
+If you need change the dwm bar text but you dont want write bash scripts, needs a queue and some other geek stuff, use this!
+
+What?
+
+If you want start dwm by dwm.rb just do this:
+exec ~/code/dwm-textlets/dwm.rb
+
+But if you don't, just  use dwm.rb "textlets" to write a file, see config.rb and know how to do.
+
+DWM Official Website:
+http://www.suckless.org/dwm/
